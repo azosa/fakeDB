@@ -1,55 +1,53 @@
 {
-	"posts": [{
-			"name": "Organic Banana",
-      "price": 4,
-      "amount": 5,
+"posts": [{"name": "Organic Banana",
+      "price": "4",
+      "amount": "5",
       "unit": "lb",
       "status": "In Stock",
       "imgUrl":
         "https://freshcart.codescandy.com/assets/images/products/product-img-18.jpg",
-      "id': "1",
+      "id": "1"
     },
     {
       "name": "Fresh Kiwi",
-      "price": 5,
-      "amount": 4,
+      "price": "5",
+      "amount": "4",
       "unit": "no",
       "status": "Out of Stock",
       "imgUrl":
         "https://freshcart.codescandy.com/assets/images/products/product-img-17.jpg",
-      "id': "2",
+      "id": "2"
     },
     {
       "name": "Golden Pineapple",
-      "price": 13,
-      "amount": 2,
+      "price": "13",
+      "amount": "2",
       "unit": "no",
       "status": "In Stock",
       "imgUrl":
         "https://freshcart.codescandy.com/assets/images/products/product-img-16.jpg",
-      "id': "3",
+      "id": "3"
     },
     {
       "name": "BeatRoot",
-      "price": 13,
-      "amount": 1,
+      "price": "13",
+      "amount": "1",
       "unit": "kg",
       "status": "In Stock",
       "imgUrl":
         "https://freshcart.codescandy.com/assets/images/products/product-img-19.jpg",
-      "id': "4",
+      "id": "4"
     },
     {
       "name": "Fresh Apple",
-      "price": 40,
-      "amount": 2,
+      "price": "40",
+      "amount": "2",
       "unit": "kg",
       "status": "In Stock",
       "imgUrl":
         "https://freshcart.codescandy.com/assets/images/products/product-img-15.jpg",
-      "id': "5",
-    }
-	],
+      "id": "5"
+    }],
 	"profile": {
 		"name": "azosa"
 	}
